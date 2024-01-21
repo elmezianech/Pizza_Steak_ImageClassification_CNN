@@ -31,6 +31,9 @@ Model 2 (with Data Augmentation and Dropout)
 Epoch 5:
 Training Loss: 0.4697 | Accuracy: 78.80%
 Validation Loss: 0.3307 | Accuracy: 87.40%
+
+
+
 These results showcase the progression and improvements observed in Model 2 after incorporating data augmentation and dropout layers. Model 2 demonstrates enhanced generalization and reduced overfitting, as reflected in the validation accuracy.
 
 
