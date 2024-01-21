@@ -5,9 +5,9 @@ Link of Data : https://www.kaggle.com/datasets/kelixirr/pizza-steak-image-classi
 
 
 
-- Key Techniques Employed
+Key Techniques Employed
 
-Convolutional Neural Network (CNN)
+- Convolutional Neural Network (CNN)
 Implemented a sophisticated CNN architecture utilizing TensorFlow and Keras, designed to learn intricate hierarchical patterns in the images.
 
 
@@ -24,17 +24,17 @@ Evaluated model performance in different scenarios:
 Model 1: Created a baseline CNN model.
 Model 2: Implemented data augmentation and added a dropout layer to observe improvements.
 
-- Results 
+Results 
 
 
-Model 1
+- Model 1
 Epoch 5:
 Training Loss: 0.2933 | Accuracy: 88.40%
 Validation Loss: 0.3474 | Accuracy: 85.40%
 
 
 
-Model 2 (with Data Augmentation and Dropout)
+- Model 2 (with Data Augmentation and Dropout)
 Epoch 5:
 Training Loss: 0.4697 | Accuracy: 78.80%
 Validation Loss: 0.3307 | Accuracy: 87.40%
