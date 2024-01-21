@@ -19,7 +19,9 @@ Evaluated model performance in different scenarios:
 Model 1: Created a baseline CNN model.
 Model 2: Implemented data augmentation and added a dropout layer to observe improvements.
 
-Results
+Results :
+
+
 Model 1
 Epoch 5:
 Training Loss: 0.2933 | Accuracy: 88.40%
